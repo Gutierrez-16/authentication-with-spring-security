@@ -62,7 +62,7 @@ Ensure the following are installed and set up:
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/authentication-with-spring-security.git
+   git clone https://github.com/Gutierrez-16/authentication-with-spring-security.git
    cd authentication-with-spring-security
    ```
 
